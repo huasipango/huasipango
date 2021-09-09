@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there! 👋
+I'm [Anthony](https://www.linkedin.com/in/anthoro), a 23 years old Software Engineer and DevOps Engineer from Ecuador.
 
-<!--
-**huasipango/huasipango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Founder at [educat.tech](https://educat.tech/) and [quieroecommerce.com](https://quieroecommerce.com/)
+- 👥 Core team member at [@EspeSoft](https://github.com/EspeSoft)
+- 📱 Mobile Development Team Leader at Alluriam Healthcare Inc.
 
-Here are some ideas to get you started:
+## Skills
+- 🤝 **DevOps:** [Gitlab](https://gitlab.com/huasipango) CI/CD, Azure DevOps, Jenkins, Terraform, Packer, Docker🐬, Kubernetes.
+- ☁️ **Cloud:** AWS, Google Cloud, Azure and Digital Ocean (🦈my favorite one).
+- 👨‍💻 **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript.
+- ⚙️ **Backend:** Java and Springboot Framework, PHP, Node.Js, .NET, C++.
+- 📱 **Mobile:** React native, Ionic and Flutter (😎currently learning it).
+- 💽 **Databases:** Oracle, Mysql, Sqlite, SQL Server and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=huasipango&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huasipango&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contact
+- [@anthoro](https://www.linkedin.com/in/anthoro) on LinkedIn
+- [@ianthoro](https://twitter.com/ianthoro) on Twitter
+- [@ianthoro](https://www.instagram.com/ianthoro/) on Instagram
+
