@@ -1,9 +1,10 @@
 ## Hi there! 👋
-I'm [Anthony](https://www.linkedin.com/in/anthoro), a 23 years old Software Engineer and DevOps Engineer from Ecuador.
+I'm [Anthony](https://www.linkedin.com/in/anthoro), a 24 years old Software Engineer and DevOps Engineer from Ecuador.
 
 - 🧭 Founder at [educat.tech](https://educat.tech/) and [quieroecommerce.com](https://quieroecommerce.com/)
 - 👥 Core team member at [@EspeSoft](https://github.com/EspeSoft)
-- 📱 Mobile Development Team Leader at Alluriam Healthcare Inc.
+- 📱 Mobile Development Team Leader at Alluriam Healthcare Inc [2020].
+- ☁️ DevOps Engineer at Plerk [Currently].
 
 ## Skills
 - 🤝 **DevOps:** [Gitlab](https://gitlab.com/huasipango) CI/CD, Azure DevOps, Jenkins, Terraform, Packer, Docker🐬, Kubernetes.
